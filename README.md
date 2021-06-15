@@ -34,4 +34,4 @@
   
   ## 📑Paper
   
-  Paper pada website kami dapat di akses pada link https://github.com/ChintyaPuja/Website_KebunTehWonosari/blob/main/Files/Project.docx
+  Paper pada website kami dapat di akses pada link https://github.com/putrimukkaromah/FinalProject/blob/main/files/Project.docx
